@@ -1,0 +1,17 @@
+.buttons_wrapper {
+  display: flex;
+  justify-content: flex-end;
+}
+.buttons_wrapper button,
+.buttons_wrapper input {
+  width: 4.5rem;
+  height: 1.5rem;
+  border: 1px solid black;
+  cursor: pointer;
+}
+.delete_button {
+  background-color: #ff7979;
+}
+.cancel_button {
+  background-color: #f6e58d;
+}

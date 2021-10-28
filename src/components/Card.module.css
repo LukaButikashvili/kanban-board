@@ -1,0 +1,25 @@
+.card_wrapper {
+  cursor: pointer;
+}
+.card_wrapper h1 {
+  font-size: 1.75rem;
+}
+.card_wrapper > div p {
+  font-size: 1.15rem;
+}
+.card_wrapper > div li {
+  font-size: 1.15rem;
+  text-align: end;
+  font-weight: bolder;
+}
+.card_wrapper > div {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: flex-end; */
+  align-items: flex-end;
+}
+.card_wrapper > div div {
+  border: 1px solid black;
+  width: 25%;
+  text-align: center;
+}

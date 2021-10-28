@@ -1,0 +1,25 @@
+.modal_for_label_wrapper {
+  display: flex;
+  flex-direction: column;
+}
+.modal_for_label_wrapper > h1 {
+  align-self: flex-end;
+  margin-bottom: 1em;
+}
+.modal_for_label_body_wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1em;
+}
+.modal_for_label_body_wrapper input {
+  margin-left: 1em;
+  width: 60%;
+  border: 1px solid black;
+  padding: 1em;
+  font-size: 1rem;
+}
+.color_box {
+  width: 3rem;
+  height: 3rem;
+}

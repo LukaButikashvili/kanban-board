@@ -1,0 +1,14 @@
+.header_wrapper {
+  width: 90%;
+  margin: auto;
+  background-color: #fad390;
+  display: flex;
+  justify-content: space-between;
+  padding: 1em;
+}
+.header_buttons_div button {
+  width: 9rem;
+  height: 3rem;
+  margin-left: 1em;
+  cursor: pointer;
+}

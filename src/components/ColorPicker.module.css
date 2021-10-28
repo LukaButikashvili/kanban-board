@@ -1,0 +1,12 @@
+.color_picker_wrapper {
+  position: relative;
+  left: 0;
+  top: 10px;
+  z-index: 999;
+}
+.color_picker {
+  position: absolute;
+  right: 90%;
+  top: 10px;
+  z-index: 9999;
+}

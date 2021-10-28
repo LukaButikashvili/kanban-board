@@ -1,0 +1,17 @@
+.label_box_wrapper {
+  width: 80%;
+  margin: auto;
+  border: 2px solid black;
+  padding: 1em 3em;
+  margin-top: 3em;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+.label_box_wrapper > h1 {
+  margin: auto;
+}
+.label_box_wrapper > div {
+  width: 4rem;
+  height: 4rem;
+}

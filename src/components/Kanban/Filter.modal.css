@@ -1,0 +1,22 @@
+.filter_wrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 2em;
+  margin-bottom: 3em;
+}
+.filter_wrapper input {
+  width: 40%;
+  height: 4rem;
+  font-size: 2rem;
+  padding: 0 0.5em;
+}
+.filter_wrapper input::placeholder {
+  padding: auto;
+  text-align: center;
+}
+.clear_filter_button {
+  width: 4%;
+  margin-left: 1em;
+  background-color: #d6a2e8;
+  border: 1px solid black;
+}

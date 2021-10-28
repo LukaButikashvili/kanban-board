@@ -1,0 +1,16 @@
+h1 {
+  margin: 0;
+}
+textarea {
+  resize: none;
+}
+* {
+  box-sizing: border-box;
+}
+ol,
+ul {
+  list-style: none;
+}
+button {
+  cursor: pointer;
+}
